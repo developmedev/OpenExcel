@@ -1,0 +1,7 @@
+C:\Users\TerencePillay\source\repos\OpenExcel\OpenExcel\bin\Debug\OpenExcel.exe.config
+C:\Users\TerencePillay\source\repos\OpenExcel\OpenExcel\bin\Debug\OpenExcel.exe
+C:\Users\TerencePillay\source\repos\OpenExcel\OpenExcel\bin\Debug\OpenExcel.pdb
+C:\Users\TerencePillay\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csprojAssemblyReference.cache
+C:\Users\TerencePillay\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.CoreCompileInputs.cache
+C:\Users\TerencePillay\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.exe
+C:\Users\TerencePillay\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.pdb
